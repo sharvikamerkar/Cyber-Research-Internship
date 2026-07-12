@@ -1,0 +1,6 @@
+
+IP Reputation Report
+--------------------
+IP Address : 8.8.8.8
+Type       : Public
+Version    : IPv4
